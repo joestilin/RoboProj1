@@ -1,2 +1,2 @@
 # RoboProj1
-Project 1 of the Udacity Robotics Software Engineer Nanodegree.
+Two Imperial AT-AT walkers are deployed in a Gazebo simulation of my New York Apartment.
