@@ -1599,7 +1599,7 @@
       <iterations>0</iterations>
       <model name='ATATwalker'>
         <pose frame=''>-0.010089 -2.73313 0.781496 0 0 -1.58456</pose>
-        <scale>1 1 1</scale>
+        <scale>0.25 0.25 0.25</scale>
         <link name='link_0'>
           <pose frame=''>-0.177521 -2.77751 1.2506 0 0 -1.58456</pose>
           <velocity>0 0 0 0 -0 0</velocity>
@@ -1705,7 +1705,7 @@
       </model>
       <model name='ATATwalker_clone'>
         <pose frame=''>-3.73019 -2.6183 0.781496 0 0 -1.58456</pose>
-        <scale>1 1 1</scale>
+        <scale>0.25 0.25 0.25</scale>
         <link name='link_0'>
           <pose frame=''>-3.89762 -2.66268 1.2506 0 0 -1.58456</pose>
           <velocity>0 0 0 0 -0 0</velocity>
