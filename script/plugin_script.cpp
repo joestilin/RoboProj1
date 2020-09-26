@@ -2,9 +2,9 @@
 
 namespace gazebo
 {
-  class WorldPluginMyRobot : public WorldPlugin
+  class WorldPluginProject1 : public WorldPlugin
   {
-    public: WorldPluginMyRobot() : WorldPlugin()
+    public: WorldPluginProject1() : WorldPlugin()
             {
               printf("Welcome to Joe's world!\n");
             }
