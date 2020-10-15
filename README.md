@@ -32,5 +32,5 @@ $ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:~/RoboProj1/build
 $ cd /RoboProj1/world
 $ gazebo apartmentworld
 ```
-
-
+And there are your ATAT Walkers in a New York Apartment!
+![If all goes well you should see this!](GazeboImage.png)
