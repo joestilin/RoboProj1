@@ -1,5 +1,5 @@
 # RoboProj1
-Loads a Gazebo world file containing two Imperial ATAT Walker models, and demonstrates the use of a simple plugin that prints "Welcome to Joe's World!" to the command line when Gazebo starts up.
+Loads a Gazebo world file containing two Imperial ATAT Walker models, and demonstrates the use of a simple C++ plugin that prints "Welcome to Joe's World!" to the command line when Gazebo starts up.
 
 # Installation
 
